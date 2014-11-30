@@ -1,0 +1,95 @@
+Cuenca		-200	1200
+Napo		534
+Quito		297
+Cotacachi		450
+
+Cotacachi		-600	730
+Cuenca		450
+Quito		241
+Riobamba		176
+
+Bahia		-1400	560
+Riobamba		244
+
+Riobamba		-910	480
+Cotacachi		176
+Quito		348
+Manta		107
+Bahia		244
+
+Quito		-190	640
+Cuenca		297
+Napo		372
+Daule		313
+Loja		396
+Riobamba		348
+
+Napo		510	600
+Salinas	145
+Daule		201
+Quito		372
+Cuenca		534
+
+Salinas	800	600
+Daule		335
+Napo		145
+
+Manta		-910	220
+Riobamba		107
+Loja		329
+Guayaquil	329
+
+Daule		315	220
+Napo		201
+Salinas		335
+Ibarra		192
+Quito		313
+
+Loja		-380	-190
+Quito		396
+Ibarra		389
+Tulcan	313
+Guayaquil	220
+Manta		329
+
+Ibarra		290	-215
+Daule		192
+Guaranda	104
+Ambato		216
+Loja		389
+
+Guaranda	470	-370
+Ambato		227
+Ibarra		104
+
+Guayaquil	-740	-470
+Manta		329
+Loja		220
+Tulcan	259
+
+Tulcan	-350	-830
+Loja		313
+Machachi	240
+Guayaquil	259
+
+Machachi	120	-830
+Ambato		91
+Tulcan		240
+
+Ambato		310	-730
+Ibarra		216
+Guaranda	227
+Morona		99
+Machachi	91
+
+Morona		430	-910
+SantoDomingo	158
+Ambato		99
+
+SantoDomingo	810	-790
+Morona		158
+Bolivar		750
+
+Bolivar		0	0
+SantoDomingo	750
+
